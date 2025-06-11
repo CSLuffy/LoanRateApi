@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\LoanRateAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|c:\\projects\\loanrateapi\\loanrateapi\\data\\staticloanratedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|solutionrelative:loanrateapi\\data\\staticloanratedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|c:\\projects\\loanrateapi\\loanrateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|solutionrelative:loanrateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|c:\\projects\\loanrateapi\\loanrateapi\\services\\loanrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|solutionrelative:loanrateapi\\services\\loanrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|c:\\projects\\loanrateapi\\loanrateapi\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAD1FF5-1A59-4209-A6A4-32E6F0F37123}|LoanRateAPI\\LoanRateAPI.csproj|solutionrelative:loanrateapi\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoanRateAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Program.cs",
+              "RelativeToolTip": "LoanRateAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:19:12.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticLoanRateDataProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Data\\StaticLoanRateDataProvider.cs",
+              "RelativeDocumentMoniker": "LoanRateAPI\\Data\\StaticLoanRateDataProvider.cs",
+              "ToolTip": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Data\\StaticLoanRateDataProvider.cs",
+              "RelativeToolTip": "LoanRateAPI\\Data\\StaticLoanRateDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:17:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanRateService.cs",
+              "DocumentMoniker": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Services\\LoanRateService.cs",
+              "RelativeDocumentMoniker": "LoanRateAPI\\Services\\LoanRateService.cs",
+              "ToolTip": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Services\\LoanRateService.cs",
+              "RelativeToolTip": "LoanRateAPI\\Services\\LoanRateService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:16:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "LoanRateAPI\\Controllers\\RatesController.cs",
+              "ToolTip": "C:\\Projects\\LoanRateAPI\\LoanRateAPI\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "LoanRateAPI\\Controllers\\RatesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:13:48.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

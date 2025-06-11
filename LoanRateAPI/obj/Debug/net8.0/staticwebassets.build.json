@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S2CrMjBF9RhddR53XFT+JwhIia/er37xWP6yq2jU5gY=",
+  "Source": "LoanRateAPI",
+  "BasePath": "_content/LoanRateAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
